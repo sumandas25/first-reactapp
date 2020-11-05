@@ -1,5 +1,7 @@
 # first-reactapp
 
+Create your own react app with 'create-react-app' and make sure you already have node v10.0 with compatible npm v6.0 and above for a better experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
