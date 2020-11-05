@@ -2,7 +2,7 @@
 
 Create your own react app with 'create-react-app' and make sure you already have node v10.0.0 with compatible npm v6.0.0 and higher for a better experience. 
 Once the project is created navigate to it's path directory and import the project folder to any of your favourite editor, here I have used Eclipse JEE for it.
-After the project is setup, do the changes as you want. I have given a sample of what I have done. For getting started with 'create-react-app', the below lines can be considered for a reference.
+After the project is setup, do the changes and view it on "http://localhost:3000". I have given a sample of what I have done after when the project got set up in the environment. For getting started with 'create-react-app', the below lines can be considered for a reference.
 
 # Getting Started with Create React App
 
